@@ -4,10 +4,10 @@ I'm a software engineer with an AI background, currently pursuing an M.S. in Com
 
 ## Featured Work
 
-- Medical Agent  
+- [Medical Agent](https://github.com/JJshijiechen/medical-agent)  
   Patient-facing AI agent for multi-turn medical conversations, long-term memory, emotion-aware interaction, symptom intake, and Medicare-guideline retrieval. Built with LangChain, OpenAI, FastAPI, FAISS/ChromaDB, and calendar/chatbot workflow automation.
 
-- Doctor Recommendation System  
+- [Doctor Recommendation System](https://github.com/JJshijiechen/doctor-recommendation-system)  
   AI-assisted doctor matching and provider lookup platform with Spring Boot services, React frontend, OAuth 2.0 authentication, OpenAI-based medical-term extraction, TF-IDF ranking, Google Places integration, MySQL on Amazon RDS, Redis caching, and AWS deployment.
 
 - [thinkingVSperformance](https://github.com/kesfc/thinkingVSperformance)  
