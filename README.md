@@ -10,9 +10,6 @@ I'm a software engineer with an AI background, currently pursuing an M.S. in Com
 - Doctor Recommendation System  
   AI-assisted doctor matching and provider lookup platform with Spring Boot services, React frontend, OAuth 2.0 authentication, OpenAI-based medical-term extraction, TF-IDF ranking, Google Places integration, MySQL on Amazon RDS, Redis caching, and AWS deployment.
 
-- Neural decoding research software  
-  Developed ML pipelines for 1M+ rodent and primate neural/behavior records using Python, PyTorch Lightning, SciPy, Slurm/HPC, and Weights & Biases. Co-authored a 2025 IEEE EMBS Neural Engineering paper on hippocampal-cortical population decoding.
-
 - [thinkingVSperformance](https://github.com/kesfc/thinkingVSperformance)  
   Team project studying how reasoning length and model size affect performance on GSM8K and DROP reasoning benchmarks.  
   Role: contributor, with 14 public commits listed by GitHub.
