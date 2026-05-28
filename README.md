@@ -1,11 +1,14 @@
 # Hi, I'm Shijie Chen (Jason)
 
-I'm a software engineer with an AI background, currently pursuing an M.S. in Computer Science at Northwestern University. I build intelligent applications, scalable cloud backends, and ML research tools across healthcare AI, LLM evaluation, NLP, and neural data analysis.
+I'm a software engineer with an AI background, currently pursuing an M.S. in Computer Science at Northwestern University. I build intelligent applications, scalable cloud backends, and ML research tools across healthcare AI, medical agents, LLM evaluation, NLP, and neural data analysis.
 
 ## Featured Work
 
-- Healthcare AI systems  
-  Built patient-facing AI agent workflows with LangChain, OpenAI, FastAPI, RAG over Medicare guidelines, and calendar/chatbot automation. Also building a doctor recommendation system with Spring Boot, React, AWS, OpenAI APIs, MySQL, and Redis.
+- Medical Agent  
+  Patient-facing AI agent for multi-turn medical conversations, long-term memory, emotion-aware interaction, symptom intake, and Medicare-guideline retrieval. Built with LangChain, OpenAI, FastAPI, FAISS/ChromaDB, and calendar/chatbot workflow automation.
+
+- Doctor Recommendation System  
+  AI-assisted doctor matching and provider lookup platform with Spring Boot services, React frontend, OAuth 2.0 authentication, OpenAI-based medical-term extraction, TF-IDF ranking, Google Places integration, MySQL on Amazon RDS, Redis caching, and AWS deployment.
 
 - Neural decoding research software  
   Developed ML pipelines for 1M+ rodent and primate neural/behavior records using Python, PyTorch Lightning, SciPy, Slurm/HPC, and Weights & Biases. Co-authored a 2025 IEEE EMBS Neural Engineering paper on hippocampal-cortical population decoding.
