@@ -4,7 +4,7 @@ I'm a software engineer with an AI background, currently pursuing an M.S. in Com
 
 ## Featured Work
 
-- [Medical Agent](https://github.com/JJshijiechen/medical-agent)  
+- [Medical Agent]
   Patient-facing AI agent for multi-turn medical conversations, long-term memory, emotion-aware interaction, symptom intake, and Medicare-guideline retrieval. Built with LangChain, OpenAI, FastAPI, FAISS/ChromaDB, and calendar/chatbot workflow automation.
 
 - [Doctor Recommendation System](https://github.com/JJshijiechen/doctor-recommendation-system)  
