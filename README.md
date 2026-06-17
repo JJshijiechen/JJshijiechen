@@ -10,6 +10,9 @@ I'm a software engineer with an AI background, currently pursuing an M.S. in Com
 - [Doctor Recommendation System](https://github.com/JJshijiechen/doctor-recommendation-system)  
   AI-assisted doctor matching and provider lookup platform with Spring Boot services, React frontend, OAuth 2.0 authentication, OpenAI-based medical-term extraction, TF-IDF ranking, Google Places integration, MySQL on Amazon RDS, Redis caching, and AWS deployment.
 
+- [Smart Bookmark Manager](https://github.com/JJshijiechen/bookmark-smart-manager)  
+  Local-first Chromium extension for searching, categorizing, de-duplicating, and organizing browser bookmarks without external APIs. Built with Manifest V3, vanilla JavaScript, local category rules, and browser bookmark/storage APIs.
+
 - [thinkingVSperformance](https://github.com/kesfc/thinkingVSperformance)  
   Team project studying how reasoning length and model size affect performance on GSM8K and DROP reasoning benchmarks.  
   Role: contributor, with 14 public commits listed by GitHub.
